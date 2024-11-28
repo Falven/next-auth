@@ -1,5 +1,5 @@
 {
-  "name": "@auth/redis-adapter",
+  "name": "@falven/redis-adapter",
   "version": "2.7.4",
   "description": "Redis adapter for Auth.js.",
   "homepage": "https://authjs.dev",
